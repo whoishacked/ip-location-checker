@@ -10,8 +10,3 @@ for ip in ip_list:
     response = urllib.request.urlopen("http://ipwhois.app/json/" + ip)
     geolocation = json.load(response)
     print(f'{geolocation["ip"]} : {geolocation["country"]}')
-
-
-
-
-
