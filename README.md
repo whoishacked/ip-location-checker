@@ -16,8 +16,8 @@ This script uses https://ipwhois.io/ and prints IP geolocation from the list.
 
 ## Technologies
 
-**Python 3**
-**ipwhois.io**
+- Python 3
+- ipwhois.io
 
 ## About author
 
